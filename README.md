@@ -84,3 +84,8 @@ initial release of basic function
 
 add readme.md and github issue link
 
+### 0.0.3
+
+* add array type support
+* fix not running after first run
+
