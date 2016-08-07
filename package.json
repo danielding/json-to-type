@@ -3,7 +3,7 @@
     "displayName": "json to type",
     "description": "convert json into type interface",
     "version": "0.0.3",
-    "publisher": "Daniel Ding",
+    "publisher": "danielDing",
     "engines": {
         "vscode": "^1.0.0"
     },
