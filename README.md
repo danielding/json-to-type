@@ -63,8 +63,7 @@ interface userType {
     > note: pls make sure it is in a project workspace and it is a valid json. check whether your json is valid in [jsonlint](http://jsonlint.com/)
 2. Launch VS Code Quick Open (⌘+P), input `json to type`, and press enter.
 3. You will find the output file `data-type.d.ts` in `{workspace}/typings` directory.
-4. add Type into your project with `/// <reference path="{workspace}/typings/data-type.d.ts" />`, 
-Now you can use the generated Type infomation in your project.
+4. add Type into your project with `/// <reference path="{workspace}/typings/data-type.d.ts" />`, Now you can use the generated Type infomation in your project.
 
 ## Contributing
 

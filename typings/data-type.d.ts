@@ -16,7 +16,7 @@ interface dataType {
    user: userType;
 }
 
-interface datasetType {
+interface rootElementType {
    status: string;
    data: dataType;
 }

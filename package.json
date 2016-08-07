@@ -2,12 +2,14 @@
     "name": "jsontotype",
     "displayName": "json to type",
     "description": "convert json into type interface",
-    "version": "0.0.2",
-    "publisher": "danielDing",
+    "version": "0.0.3",
+    "publisher": "Daniel Ding",
     "engines": {
         "vscode": "^1.0.0"
     },
     "categories": [
+        "Languages",
+        "Snippets",
         "Other"
     ],
     "activationEvents": [
