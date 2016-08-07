@@ -1,8 +1,8 @@
 {
     "name": "jsontotype",
-    "displayName": "jsonToType",
-    "description": "convert json file into type interface",
-    "version": "0.0.1",
+    "displayName": "json to type",
+    "description": "convert json into type interface",
+    "version": "0.0.2",
     "publisher": "danielDing",
     "engines": {
         "vscode": "^1.0.0"

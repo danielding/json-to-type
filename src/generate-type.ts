@@ -2,7 +2,7 @@ class GenerateType {
     private typeInterface = {};
 
     constructor (datasetName: string, private dataset: any) {
-        this.generate('dataset', dataset);
+        this.generate('rootElement', dataset);
     }
 
     public getResult() {
